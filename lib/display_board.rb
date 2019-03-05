@@ -5,4 +5,7 @@ def display_board
   puts "   |   |   "
   puts "-----------"
   puts "   |   |   "
+   1 = X 
+   2 = O
+   
 end 
